@@ -231,10 +231,7 @@ div.sobre{
     font-weight: bold;
     text-decoration: underline rgb(222, 80, 80);
 }
-.eu p > span:hover{
-    color: rgb(222, 80, 80);
-    text-decoration: none;
-}
+
 
 .menu li > a:hover,
 .redes i:hover,
