@@ -227,9 +227,9 @@ div.sobre{
     color: rgb(176, 173, 173);
 }
 .eu p > span {
-    color: white;
+    color: rgb(222, 80, 80);
     font-weight: bold;
-    text-decoration: underline rgb(222, 80, 80);
+    text-decoration: none;
 }
 
 
